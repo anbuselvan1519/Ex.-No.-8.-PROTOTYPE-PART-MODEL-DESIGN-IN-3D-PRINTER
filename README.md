@@ -46,9 +46,16 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot 2023-11-29 085910](https://github.com/anbuselvan1519/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139841744/a2fab9ae-1ae8-4a0f-b6df-f2fd955c8f60)
+![image](https://github.com/anbuselvan1519/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139841744/f857e440-eb25-4a68-95ff-9d9f8628680d)
+![image](https://github.com/anbuselvan1519/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139841744/329002f5-cf08-4e71-abd7-6607fd0fa1fe)
+![image](https://github.com/anbuselvan1519/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139841744/36b75d4e-fa94-4716-9913-77a8018c7827)
+![image](https://github.com/anbuselvan1519/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139841744/0c47d9d1-c0b3-4c8c-b8f7-19b7e12d732f)
+![image](https://github.com/anbuselvan1519/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139841744/d78b7211-e36a-4f81-ab3c-b12850254be6)
 
-### Name:
-### Register Number:
+
+### Name:Anbuselvan.S
+### Register Number:23005959
 
 ## RESULT:
-###   Thus a prototype of the given part model is developed using 3D Printer.
+### Thus a prototype of the given part model is developed using 3D Printer.
